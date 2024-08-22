@@ -1,0 +1,44 @@
+body {
+  background-color: #ffebd2;
+  color: #af4f41;
+}
+
+.never {
+  color: #273248;
+}
+
+.after {
+  color: rgb(121, 71, 7);
+}
+button {
+  background-color: #af4f41;
+  color: #ffebd2;
+  border: 3px solid #351f1b;
+  border-radius: 10px;
+  padding: 10px ;
+}
+
+p {
+  font-size: 19px;
+
+}
+h1 {
+  font-size: 100px ;
+  margin-bottom: 37px;
+}
+
+.star {
+  display: flex;
+  justify-content:center ;
+}
+
+#pink {
+  margin: 50px 200px 50px 200px;
+}
+#cotic {
+  border-radius: 50%;
+}
+.bich {
+  color: black;
+  font-weight: 700;
+}
